@@ -1,2 +1,2 @@
-# Projects C
-Primeiros projetos
+# Projects in C
+Primeiros projetos em C
